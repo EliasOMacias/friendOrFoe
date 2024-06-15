@@ -3,7 +3,7 @@
 #todo 2: delete names longer than four
 #todo 3: create names of four from individual characters
 #todo 4: check for uniqueness and remove duplicates
-def friend(x)
+def friend(x):
 
     real_friends = []
     for name in x:
