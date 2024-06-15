@@ -16,3 +16,5 @@ def friend(x):
                     newName += name
             real_friends += newName
     return(real_friends)
+
+    # added note
