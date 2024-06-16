@@ -18,5 +18,5 @@ def friend(x):
     return(real_friends)
 
 
-    # added note
+    # added note alright
     # and another
