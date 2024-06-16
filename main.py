@@ -1,5 +1,5 @@
 
-#todo 1: change all inputs to one list
+
 #todo 2: pass names len = 4 to new list to be returned
 #todo 3: test
 def friend(*x):
